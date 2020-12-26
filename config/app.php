@@ -161,6 +161,8 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
+        \App\Providers\AppRepositoryProvider::class,
 
         /*
          * Package Service Providers...

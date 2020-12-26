@@ -6,6 +6,16 @@
 .env
 .env.backup
 .phpunit.result.cache
+.editorconfig
+.gitattributes
+.idea/angular-laravel-review.iml
+.idea/deployment.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/workspace.xml
+.styleci.yml
 Homestead.json
 Homestead.yaml
 npm-debug.log
